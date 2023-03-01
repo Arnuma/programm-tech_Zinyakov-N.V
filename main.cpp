@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-// https://github.com/Arnuma/c-_pr2
+// https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.2
 
 
 main()
