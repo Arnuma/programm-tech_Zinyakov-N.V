@@ -4,8 +4,8 @@
 <h2>Меню<h2>
 
   <ul list-style-type = "disk">
-    <li><a href="">Дамашнее задание 1.1</a></li>
-    <li><a href="">Дамашнее задание 2.2</a></li>
-    <li><a href="">Дамашнее задание 2.3</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/blob/HomeWork_1.1/main.cpp">Дамашнее задание 1.1</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/blob/HomeWork_2.2/main.cpp">Дамашнее задание 2.2</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/blob/HomeWork_2.3/main.cpp">Дамашнее задание 2.3</a></li>
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.4">Дамашнее задание 2.4</a></li>
   </ul>
