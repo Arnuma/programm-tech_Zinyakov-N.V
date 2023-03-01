@@ -1,4 +1,8 @@
 #include <stdio.h>
+
+// https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.4
+
+
 main()
 {
 	int day;
