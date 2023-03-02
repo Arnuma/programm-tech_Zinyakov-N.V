@@ -8,4 +8,5 @@
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/blob/HomeWork_2.2/main.cpp">Домашнее задание 2.2</a></li>
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/blob/HomeWork_2.3/main.cpp">Домашнее задание 2.3</a></li>
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.4">Домашнее задание 2.4</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 2.6</a></li>
   </ul>
