@@ -10,4 +10,26 @@
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.4">Домашнее задание 2.4</a></li>
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 2.6</a></li>
     <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 3.5</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 3.6</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 3.7</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 3.8</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 4.2</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 4.3</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 4.4</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 5.2</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 5.3</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 5.5</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 5.6</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 6.3</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 6.4</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 7.2</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 7.3</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 7.4</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 8.1</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 8.2</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 8.4</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 8.5</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 9.1</a></li>
+    <li><a href="https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_2.6">Домашнее задание 9.2</a></li>
+    
   </ul>
