@@ -1,6 +1,14 @@
-<h1 align = "center">Домашние задания по предмету: Технология программирования <h1>
- <p align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/%D0%A1%D0%98%D0%9D%D0%95%D0%A0%D0%93%D0%98%D0%AF_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height="70"/><p>
-<h2 align = "center">FullStack and FrontEnd Developer <img src="https://simpleicons.org/icons/cplusplus.svg" height="32"/><img src="https://simpleicons.org/icons/html5.svg" height="32"/><img src="https://simpleicons.org/icons/javascript.svg" height="32"/> <h2>
+ <h1 align = "center">Домашние задания по предмету: Технология программирования <h1>
+  <p align = "center"><img    src="https://upload.wikimedia.org/wikipedia/commons/1/13/%D0%A1%D0%98%D0%9D%D0%95%D0%A0%D0%93%D0%98%D0%AF_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5 %D1%82_%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height="70"/><p>
+ <h2 align = "center">FullStack and FrontEnd Developer<h2>
+ <h2 align = "center">My stuck:<h2>
+ <p><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><p>
+ <p><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/><p>
+ <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><p>
+ <p><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><p>
+ <p><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><p>
+ <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><p>
+  <p><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><p>
 <h2>Меню<h2>
 
   <ul list-style-type = "disk">
