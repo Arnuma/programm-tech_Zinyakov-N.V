@@ -1,5 +1,5 @@
  <h1 align = "center">Домашние задания по предмету: Технология программирования <h1>
-  <p align = "center"><img    src="https://upload.wikimedia.org/wikipedia/commons/1/13/%D0%A1%D0%98%D0%9D%D0%95%D0%A0%D0%93%D0%98%D0%AF_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5 %D1%82_%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height="70"/><p>
+  <p align = "center"><img    src="https://simpleicons.org/icons/github.svg" height="120"/><p>
  <h2 align = "center">FullStack and FrontEnd Developer<h2>
  <h2 align = "center">My stuck:<h2>
  <p><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><p>
