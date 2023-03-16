@@ -3,8 +3,6 @@
 // https://github.com/Arnuma/programm-tech_Zinyakov-N.V/tree/HomeWork_4.3
 
 
-#include <stdio.h>
-
 int main()
 {
     int arr[100], n, i, j, temp;
