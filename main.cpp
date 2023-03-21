@@ -11,14 +11,12 @@ int main() {
 
     printf("Enter the number of columns: ");
     scanf("%d", &cols);
-
     int **arr = (int **)malloc(rows * sizeof(int *));
     for (int i = 0; i < rows; i++) {
         arr[i] = (int *)malloc(cols * sizeof(int));
     }
 
-    printf("Enter the elements of the array:");
-
+    printf("Enter the elements of the array:\n");
 
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
@@ -36,13 +34,13 @@ int main() {
     }
 
 
-    printf("The inverted array is:");
+    printf("The inverted array is:\n");
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
             printf("%d ", arr[i][j]);
         }
+        printf("\n");
     }
-
 
     for (int i = 0; i < rows; i++) {
         free(arr[i]);
